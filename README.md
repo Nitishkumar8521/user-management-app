@@ -16,7 +16,7 @@ A modern, responsive web application for managing user information with full CRU
 
 ## Live Demo
 
-[Try the live demo here](https://your-demo-link.vercel.app) *(Replace with your actual deployment link)*
+[Try the live demo here](https://user-management-app-mu-murex.vercel.app/) *(Replace with your actual deployment link)*
 
 ## Screenshots
 
